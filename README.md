@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZLUKA-it/Z.L.U.K.A/main/images/GitIcon.png" alt="Z.L.U.K.A. Logo" width="700">
+  <img src="https://raw.githubusercontent.com/ZLUKA-it/Z.L.U.K.A/main/images/GitIcon.png" alt="Z.L.U.K.A. Logo" width="650">
 </p>
 
 # Z.L.U.K.A
