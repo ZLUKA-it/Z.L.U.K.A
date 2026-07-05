@@ -1,5 +1,7 @@
 # Z.L.U.K.A
 
+<img src="https://raw.githubusercontent.com/ZLUKA-it/Z.L.U.K.A/main/images/GitIcon.png" alt="Z.L.U.K.A. Logo" width="32" height="32" align="left">
+
 Эта программа создана русским программистом ZLUKA
 
 Страница проекта на github: https://github.com/ZLUKA-it/Z.L.U.K.A    
