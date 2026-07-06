@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZLUKA-it/Z.L.U.K.A/main/images/GitIcon.png" alt="Z.L.U.K.A. Logo" width="650">
 </p>
-!ЭТА СТРАНИЦА ЕЩЕ В РАЗРАБОТКЕ!
-# Z.L.U.K.A
+
+# Z.L.U.K.A 
+Версия 1.0.0 уже доступна для скачивания!
 
 ## 🚀 Возможности
 
